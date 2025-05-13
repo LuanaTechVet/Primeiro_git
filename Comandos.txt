@@ -15,3 +15,5 @@ git status = branch, commits pendentes e working tree
 Mudar branch
 
 git checkout -b dev
+
+git branch = mostra os branchs
