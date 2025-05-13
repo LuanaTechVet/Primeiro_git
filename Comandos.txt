@@ -11,9 +11,3 @@ git remote add origin URL_DO_REPOSITORIO = Adiciona o repositório remoto como o
 git push -u origin main ou git push -u origin nome_da_sua_branch = Envia o código para o GitHub
 
 git status = branch, commits pendentes e working tree
-
-Mudar branch
-
-git checkout -b dev
-
-git branch = mostra os branchs
